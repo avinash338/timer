@@ -33,7 +33,7 @@ body {
 }
 
 .time-section {
-  padding: 0px 8px;
+  padding: 8px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
